@@ -19,7 +19,9 @@ There is one Solidity contract called Lottery.sol. This contains all necessary i
 Demo:
 I use a Jupyter Notebook to demonstrate functionality. Open the notebook lottery_demo.ipynb and run the cells in order while follwoing the comments. The blockchain I use to deploy and test the contract is eth-tester. This supports the PyEVM backend, which is a full Ethereum implementation in Python. I interact with PyEVM using Web3. Eth-tester will automatically be set to interact with PyEVM.
 
-pip install web3[tester] installs Web3.py, eth-tester, and PyEVM
+pip install web3[tester] 
+
+this installs Web3.py, eth-tester, and PyEVM
 
 Sources: 
 My references and other notes can be seen at the end of the Jupyter Notebook. 
