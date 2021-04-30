@@ -2,7 +2,7 @@ Decentralized Lottery App on the Ethereum Blockchain
 By: Duke Alf
 
 Overview:
-The traditional lottery system is inherently unfair to players. Winnings are lost due to splitting pots, paying taxes, and fraud. This Dapp allows players to join a lottery for the cost of 1 ether. Each address can only enter the lottery once. The winner is randomly selected and recieves the entire payout. No middle-man necessary. 
+The traditional lottery system is inherently unfair to players. Winnings are lost due to splitting pots, paying taxes, and fraud. This Dapp allows players to join a lottery for the cost of 1 ether. Each address can only enter the lottery once. The winner is randomly selected and receives the entire payout. No middle-man necessary. 
 
 Process:
 -the owner of the contract opens the lottery 
